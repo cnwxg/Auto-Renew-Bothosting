@@ -1,5 +1,5 @@
 #!/bin/bash
-# setup_proxy.sh - 多节点轮询解析与 sing-box 启动 (终极无懈可击版)
+# setup_proxy.sh - 多节点轮询解析与 sing-box 启动
 export LC_ALL=C
 set -e
 
